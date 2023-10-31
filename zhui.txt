@@ -2915,7 +2915,12 @@ end)
     credits:Button("bf", function()
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHuB/main/Chiba-BF.txt'))()
     end)
-    
+
+credits:Button("巴掌模拟器", function()
+	  loadstring(game:HttpGet("https://raw.githubusercontent.com/haxhell/roblox-scripts/main/slap-battles.lua", true))()  
+    end)
+
+
     credits:Button("刀刃球", function()
 	    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fd07660d92cb26891e9acfab9f0c6ba4.lua"))()
     end)
