@@ -2974,6 +2974,10 @@ credits:Button("巴掌模拟器", function()
     credits:Button("拳击测试版", function()
 	    loadstring(game:HttpGet("https://raw.githubusercontent.com/SethProYT/boxing-league-script/main/script"))()
     end)
+
+credits:Button("shoot and eat noobs", function()
+	    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ShootEat'))()
+    end)
     
     credits:Button("极速传奇", function()
 	    loadstring(game:HttpGet("https://pastebin.com/raw/vE8x0eHm"))()
