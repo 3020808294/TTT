@@ -15,6 +15,10 @@ if game.Players.LocalPlayer.Name == "dujianjjjjjj" then
 Whitelisted = true 
 end
 
+if game.Players.LocalPlayer.Name == "dujianjjjj" then 
+Whitelisted = true 
+end
+
 if game.Players.LocalPlayer.Name == "ydbfj138" then 
 Whitelisted = true 
 end
@@ -110,6 +114,14 @@ end
 
 
 if game.Players.LocalPlayer.Name == "TTT_928" then 
+Whitelisted = true 
+end
+
+if game.Players.LocalPlayer.Name == "aaycssxiaohao" then 
+Whitelisted = true 
+end
+
+if game.Players.LocalPlayer.Name == "aaycss" then 
 Whitelisted = true 
 end
 
@@ -2997,6 +3009,10 @@ credits:Button("巴掌模拟器", function()
 
 credits:Button("shoot and eat noobs", function()
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ShootEat'))()
+    end)
+
+credits:Button("木材大亨2", function()
+	    loadstring(game:HttpGet("https://pastebin.com/raw/NMY2BPLe"))()
     end)
     
     credits:Button("极速传奇", function()
