@@ -2928,7 +2928,7 @@ local credits = creds:section("😎玩家类通用😎",true)
     end)
     
     credits:Button("飞行",function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/U27yQRxS"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/wkJ3JzXa"))()
     end)
     
     credits:Toggle("无限跳", function()
