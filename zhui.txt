@@ -3002,6 +3002,10 @@ credits:Button("巴掌模拟器", function()
     credits:Button("刀刃球", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng"))()
     end)
+
+credits:Button("bad bussiness", function()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/AlphaZero/main/Loader.lua"))()
+    end)
     
     credits:Button("拳击测试版", function()
 	    loadstring(game:HttpGet("https://raw.githubusercontent.com/SethProYT/boxing-league-script/main/script"))()
