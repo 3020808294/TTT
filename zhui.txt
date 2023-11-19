@@ -3015,7 +3015,7 @@ credits:Button("巴掌模拟器", function()
     end)
 
 credits:Button("bad bussiness", function()
-	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sw1ndlerScripts/AlphaZero/main/Loader.lua"))()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/xml4/luau/main/games/badbusiness/silentaim.lua"))()
     end)
     
     credits:Button("拳击测试版", function()
