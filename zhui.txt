@@ -3066,7 +3066,7 @@ end)
     local credits = creds:section("😎脚本😎",true)
     
     credits:Button("bf", function()
-	    loadstring(game:HttpGet('https://raw.githubusercontent.com/KindIhave/ChibaHuB/main/Chiba-BF.txt'))()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/Xiao-Yun-UWU/main/%E6%B5%B7%E8%B4%BC%E7%8E%8Bbf.lua", true))()
     end)
 
 credits:Button("巴掌模拟器", function()
@@ -3091,7 +3091,7 @@ credits:Button("shoot and eat noobs", function()
     end)
 
 credits:Button("ohio（容易ban，谨慎使用）", function()
-	    loadstring(game:HttpGet("https://raw.githubusercontent.com/rxn-xyz/Ohio./main/Ohio.lua",true))()
+	    loadstring(game:HttpGet("\104\116\116\112\115\58\47\47\115\99\114\105\112\116\115\46\118\105\115\117\114\117\115\46\100\101\118\47\111\104\105\111\47\115\111\117\114\99\101"))()
     end)
 
 credits:Button("动感星期五", function()
