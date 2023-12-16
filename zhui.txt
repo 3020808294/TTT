@@ -205,6 +205,10 @@ if game.Players.LocalPlayer.Name == "ZL991205" then
 Whitelisted = true 
 end
 
+if game.Players.LocalPlayer.Name == "MYUWASNI" then 
+Whitelisted = true 
+end
+
 if game.Players.LocalPlayer.Name == "JshIshskshskshz" then 
 Whitelisted = true 
 end
@@ -3084,6 +3088,10 @@ credits:Button("bad bussiness", function()
 
 credits:Button("shoot and eat noobs", function()
 	    loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ShootEat'))()
+    end)
+
+credits:Button("ohio（容易ban，谨慎使用）", function()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/rxn-xyz/Ohio./main/Ohio.lua",true))()
     end)
 
 credits:Button("动感星期五", function()
