@@ -3113,6 +3113,10 @@ credits:Button("木材大亨2", function()
     credits:Button("忍者传奇", function()
 	    loadstring(game:HttpGet("https://raw.githubusercontent.com/AliCode14/scripts/main/ScriptHub.lua"))()
     end)
+
+credits:Button("宠物模拟器x", function()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Sim99/main/Pet"))()
+    end)
        
     local credits = creds:section("伐木大亨2",true)
     
@@ -3178,5 +3182,5 @@ end)
 
    
    else
-       game.Players.LocalPlayer:Kick("你不是zhui脚本的用户加群942765722")--踢人函数
+       game.Players.LocalPlayer:Kick("你不是zhui脚本的用户加群310988307")--踢人函数
    end
