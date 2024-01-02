@@ -43,6 +43,10 @@ if game.Players.LocalPlayer.Name == "wcnmsbxxsj" then
 Whitelisted = true 
 end
 
+if game.Players.LocalPlayer.Name == "yumo0620" then 
+Whitelisted = true 
+end
+
 if game.Players.LocalPlayer.Name == "hfhhdd546" then 
 Whitelisted = true 
 end
