@@ -3122,6 +3122,10 @@ credits:Button("巴掌模拟器", function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng"))()
     end)
 
+credits:Button("监狱人生", function()
+	    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobExploits/scripts/main/MainScript.lua"))()
+    end)
+
 credits:Button("bad bussiness", function()
 	    loadstring(game:HttpGet("https://raw.githubusercontent.com/xml4/luau/main/games/badbusiness/silentaim.lua"))()
     end)
