@@ -3118,7 +3118,7 @@ end)
     local credits = creds:section("😎脚本😎",true)
     
     credits:Button("bf", function()
-	    loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
+	    loadstring(game:HttpGet("https://xerohub.click/script/main.lua"))()
     end)
 
 credits:Button("巴掌模拟器", function()
